@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gregory Nelson Esguerra</h1>
-<h3 align="center">A .NET Software Developer and blogger experienced in developing applications using C#.NET, .NET Core, .NET Framework, ASP.NET Core Web API, ASP.NET, ASP.NET MVC, ASP Classic, WCF, WPF, Windows Forms, VB.NET, VBA, Power BI, Sitecore CMS, Vue.js, Quasar Framework, Database Software, Design Patterns, Regular Expressions and front-end related technologies.</h3>
+<h3 align="center">A .NET Software Developer and blogger experienced in developing applications using C#.NET, .NET Core, .NET Framework, ASP.NET Core Web API, ASP.NET MVC, ASP.NET Web Forms, ASP Classic, WCF, WPF, Windows Forms, VB.NET, VBA, Power BI, Sitecore CMS, Vue.js, Quasar Framework, Database Software, Design Patterns, Regular Expressions and front-end related technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotnetgenetics&label=Profile%20views&color=0e75b6&style=flat" alt="dotnetgenetics" /> </p>
 
